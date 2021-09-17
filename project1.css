@@ -1,0 +1,70 @@
+#main {
+    background: #d9d9d9;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 10%;
+    margin: 30px 0px 20px 20px;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram {
+    background: #f40083;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    transform: scale(1.5);
+}
+
+#img-div {
+    padding: 20px;
+    background-color: whitesmoke;
+    margin: 60px;
+}
+
+#img-caption {
+    padding-left: 400px;
+}
+
+#title {
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+    padding: 0px 50px 0px 50px;
+}
+
+#sm-links {
+    padding-left: 570px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
